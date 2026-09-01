@@ -9,9 +9,9 @@ Most of what's in this GitHub is stuff I actually deployed and kept running, not
 
 ## 🛠 What I work with
 
-☁️ **Cloud** — AWS (EC2, S3, RDS, IAM, VPC, Lambda, ECS, ECR, Route 53, API Gateway, CloudWatch)
+☁️ **Cloud** — AWS (EC2, S3, RDS, IAM, VPC, Lambda, ECS, ECR, EKS, Route 53, API Gateway, CloudWatch)
 
-📦 **Containers** — Docker, Kubernetes (k3s)
+📦 **Containers** — Docker, Kubernetes 
 
 ⚙️ **IaC** — Terraform
 
