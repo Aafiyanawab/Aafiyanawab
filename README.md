@@ -1,6 +1,6 @@
 # Aafiya Nawab 👋
 
-Cloud Engineer & DevOps Fresher | AWS · Terraform · Docker · Kubernetes · CI/CD
+Cloud & DevOps Fresher | AWS · Terraform · Docker · Kubernetes · CI/CD
 
 Most of what's in this GitHub is stuff I actually deployed and kept running, not just code that compiles. I like the part of engineering where something has to survive contact with the real world — stay up, stay secure, get monitored.
 
