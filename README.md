@@ -1,18 +1,27 @@
+<div align="center">
+
 # Aafiya Nawab 👋
 
 Cloud & DevOps Fresher | AWS · Terraform · Docker · Kubernetes · CI/CD
 
+</div>
 Most of what's in this GitHub is stuff I actually deployed and kept running, not just code that compiles. I like the part of engineering where something has to survive contact with the real world — stay up, stay secure, get monitored.
 
-## 🛠️ What I work with
+## 🛠 What I work with
 
-**☁️ Cloud** — AWS (EC2, S3, RDS, IAM, VPC, Lambda, ECS, ECR, Route 53, API Gateway, CloudWatch)
-**📦 Containers** — Docker, Kubernetes (k3s)
-**⚙️ IaC** — Terraform
-**🚀 CI/CD** — GitHub Actions, Jenkins
-**🔐 Security & Monitoring** — CodeQL, Trivy, Dependabot, Prometheus, Grafana
-**💻 Languages** — Python, Bash, JavaScript, HTML/CSS
-**🗄️ Databases** — PostgreSQL, MySQL, DynamoDB, MongoDB
+☁️ **Cloud** — AWS (EC2, S3, RDS, IAM, VPC, Lambda, ECS, ECR, Route 53, API Gateway, CloudWatch)
+
+📦 **Containers** — Docker, Kubernetes (k3s)
+
+⚙️ **IaC** — Terraform
+
+🚀 **CI/CD** — GitHub Actions, Jenkins
+
+🔒 **Security & Monitoring** — CodeQL, Trivy, Dependabot, Prometheus, Grafana
+
+💻 **Languages** — Python, Bash, JavaScript, HTML/CSS
+
+🗄️ **Databases** — PostgreSQL, MySQL, DynamoDB, MongoDB
 
 ## 🚀 Projects
 
