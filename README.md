@@ -17,7 +17,7 @@ Most of what's in this GitHub is stuff I actually deployed and kept running, not
 
 🚀 **CI/CD** — GitHub Actions, Jenkins
 
-🔒 **Security & Monitoring** — CodeQL, Trivy, Dependabot, Prometheus, Grafana
+🔒 **Security & Monitoring** — CodeQL, Trivy, Dependabot, Prometheus, Grafana, WAF, Cloud Security practices
 
 💻 **Languages** — Python, Bash, JavaScript, HTML/CSS
 
