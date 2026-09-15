@@ -1,7 +1,7 @@
 <div align="center">
 
 # Aafiya Nawab 👋
-### Cloud/DevOps Engineer (Fresher)
+# Cloud/DevOps Engineer (Fresher)
 Building and deploying cloud-native infrastructure — AWS · Terraform · Docker · Kubernetes · CI/CD
 
 [LinkedIn](https://www.linkedin.com/in/aafiyanawab-7b66822b9) · [Email](mailto:aafiyanawab@gmail.com)
@@ -16,7 +16,7 @@ I build cloud infrastructure end-to-end — provisioning with Terraform, contain
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 | | |
 |---|---|
@@ -32,7 +32,7 @@ I build cloud infrastructure end-to-end — provisioning with Terraform, contain
 
 ---
 
-## Projects
+# Projects
 
 **🔹 ContextFlow – AI-Powered Repository Intelligence Platform**
 `Python` `Flask` `PostgreSQL` `Docker` `Kubernetes` `AWS` `Terraform` `Prometheus` `Grafana`
@@ -55,14 +55,14 @@ Deployed a team-built, Terraform-defined AWS infrastructure (EKS, IRSA, WAF, mic
 
 ---
 
-## Experience
+# Experience
 
 **Cloud Engineer Intern** — Cloud4Green Technologies (Jan – May 2026)
 Automated AWS IAM workflows with Python and IAM Identity Center, built Terraform-based Infrastructure as Code for resource provisioning, and supported AWS cost-management automation with Budgets, SNS, and Lambda.
 
 ---
 
-## Currently learning
+# Currently learning
 <!-- fill this in — e.g. Kubernetes RBAC, Helm, a specific cert you're working toward -->
 
 ---
