@@ -1,8 +1,12 @@
+<div align="center">
+
 # Aafiya Nawab 👋
 ### Cloud/DevOps Engineer (Fresher)
 Building and deploying cloud-native infrastructure — AWS · Terraform · Docker · Kubernetes · CI/CD
 
 [LinkedIn](https://www.linkedin.com/in/aafiyanawab-7b66822b9) · [Email](mailto:aafiyanawab@gmail.com)
+
+</div>
 
 ---
 
