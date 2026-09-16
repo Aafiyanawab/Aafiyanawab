@@ -30,7 +30,7 @@ I build cloud infrastructure end-to-end — provisioning with Terraform, contain
 | **Security scanning** | CodeQL, Trivy, Dependabot |
 | **Scripting** | Python (Boto3, Flask), Bash/Shell, JavaScript |
 | **Databases** | PostgreSQL, DynamoDB, MongoDB, MySQL |
-| **OS & Networking** | Linux, TCP/IP, DNS, HTTP/HTTPS, SSH, Firewalls |
+| **OS & Networking** | Linux, TCP/IP, Nginx, DNS, HTTP/HTTPS, SSH, Firewalls |
 
 ---
 
@@ -47,13 +47,13 @@ Zero-downtime releases via automated Blue-Green traffic switching on ECS Fargate
 🔗 [GitHub](https://github.com/Aafiyanawab/bluegreen-ecs-pipeline)
 
 **🔹 Customer Review Analyser**
-`Python` `Flask` `AWS Comprehend` `Docker`
+`Python` `Flask` `AWS Comprehend` `Docker` ` Nginx` 
 Serverless sentiment-analysis platform processing bulk CSV/Excel review uploads. Cut AWS Comprehend API calls by 75% via an event-driven S3 → Lambda → Comprehend Batch pipeline. Interactive dashboard (charts, key-phrase extraction, entity detection) with login-free, isolated sessions and automatic 24-hour TTL cleanup.
 🔗 [Live Demo](http://reviewanalyser.site) · [GitHub](https://github.com/Aafiyanawab/review-analyser)
 
 **🔹 Zidd 2.0 – Team Cloud Platform Deployment**
 `Terraform` `AWS EKS` `IRSA` `WAF` `Microservices` — *team project*
-Deployed a team-built, Terraform-defined AWS infrastructure (EKS, IRSA, WAF, microservices architecture) independently, end-to-end, on a personal AWS account. Contributed Terraform changes to the shared codebase: migrated to an S3 remote backend with DynamoDB state locking, renamed ECR repositories, removed an unused RDS instance, and right-sized EC2 resources. Core platform architecture built by teammates.
+Deployed a team-built, Terraform-defined AWS infrastructure (EKS, IRSA, WAF, microservices architecture) independently, end-to-end, on a personal AWS account. Contributed Terraform changes to the shared codebase: migrated to an S3 remote backend with DynamoDB state locking, renamed ECR repositories, removed an unused RDS instance, and right-sized EC2 resources.
 🔗 [GitHub](https://github.com/Aafiyanawab/zidd2.0-devops-platform)
 
 ---
